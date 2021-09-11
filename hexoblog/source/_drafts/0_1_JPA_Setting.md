@@ -1,5 +1,5 @@
 ---
-title: 0_1_JPA_기본설정및라이브러리
+title: 0_1_JPA_Setting
 tags:
   - JPA
 categories:
