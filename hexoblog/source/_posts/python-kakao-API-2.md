@@ -39,10 +39,3 @@ https://localhost.com/?code={code}
 최종적으로 받은 알림
 ![python_8](/review_img/KakaoAPI2/7.PNG)
 
-
-
-
-
-
-
-
