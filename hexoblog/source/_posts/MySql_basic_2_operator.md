@@ -4,7 +4,7 @@ tags:
   - MySql
 categories:
   - MySql
-date: 2021-10-123 11:25:32
+date: 2021-10-13 11:25:32
 ---
 
 ![mysql_operator_1](/review_img/mysql/2.PNG)
