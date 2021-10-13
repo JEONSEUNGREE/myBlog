@@ -1,10 +1,9 @@
 ---
 title: python-db_myql
 tags:
-  - Python
+  - Lecture
 categories:
-  - Python
-  - Flask
+  - Lecture
 date: 2021-10-11 11:12:33
 ---
 

@@ -5,7 +5,6 @@ tags:
 categories:
   - Python
   - Flask
-  - vue
 date: 2021-09-29 23:22:12
 ---
 
