@@ -1,6 +1,5 @@
 ---
 title: Spring_batch흐름
-  - SpringBatch
 categories:
   - SpringBatch
 date: 2021-12-17 00:01:11
